@@ -1,0 +1,4 @@
+To run this file us a commad line like:
+          python3 main.py -i topology1.txt -r 5
+-i is the txt file of the topology1
+-r is the number of rounds
